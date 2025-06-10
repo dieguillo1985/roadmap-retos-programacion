@@ -1,17 +1,17 @@
 # https://python.org
 
-# Comentario en una línea
+# Comentario en una línea los comenzamos con una almohadilla
 
 """
 Esto también es
 un comentario
-en varias líneas
+en varias líneas encabezando y finalizando con tres dobles comillas
 """
 
 '''
 Esto también es
 un comentario
-en varias líneas
+en varias líneas encabezado y finalizado con tres comillas simples
 '''
 
 my_variable = "Mi variable"
@@ -23,8 +23,8 @@ my_int = 1
 my_float = 1.5
 my_bool = True
 my_bool = False
-my_string = "Mi cadena de texto"
-my_other_string = 'Mi otra cadena de texto'
+my_string = "Esta esmi cadena de texto"
+my_other_string = 'Esta es mi otra cadena de texto'
 
 print("¡Hola, Python!")
 
